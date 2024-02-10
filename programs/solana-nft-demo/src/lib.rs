@@ -1,0 +1,15 @@
+use anchor_lang::prelude::*;
+
+declare_id!("85FPqMxy9QEeq5ejVMkuWYHsX8X6eTwqfaEe6hvTMcGS");
+
+#[program]
+pub mod solana_nft_demo {
+    use super::*;
+
+    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+        Ok(())
+    }
+}
+
+#[derive(Accounts)]
+pub struct Initialize {}
