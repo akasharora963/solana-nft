@@ -53,6 +53,7 @@ anchor build
 ```bash
 anchor deploy
 ```
+![Screenshot from 2024-02-11 18-43-40](https://github.com/akasharora963/solana-nft/assets/45670997/5ba5abb4-5e81-47c0-ac38-3b67897127c8)
 
 
 
