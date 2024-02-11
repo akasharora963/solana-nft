@@ -1,0 +1,34 @@
+{
+	"name": "Gojo",
+	"symbol": "JJK",
+	"description": "anime-character",
+	"image": "https://yellow-major-catfish-634.mypinata.cloud/ipfs/QmbGENpJgZt8hbHhy3XofuDsgR2kNVE6i2ey3zZEnSGBaL",
+	"attributes": [
+		[
+			{
+				"trait_type": "Gender",
+				"value": "Male"
+			},
+			{
+				"trait_type": "Type",
+				"value": "Dark"
+			},
+			{
+				"trait_type": "Expression",
+				"value": "Smile"
+			},
+			{
+				"trait_type": "Fight",
+				"value": "Domain-style"
+			},
+			{
+				"trait_type": "Hair",
+				"value": "white"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Purple"
+			}
+		]
+	]
+}
