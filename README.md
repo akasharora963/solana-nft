@@ -11,6 +11,9 @@ I use Anchor framework in this demo to make the nft smart contract and metaplex 
 | `mint-nft` | Mint an NFT to your local wallet using **Anchor**, including metadata using **Metaplex**. |
 | `sell-nft` | Sell one of your NFTs to another Solana wallet. Receive SOl from & transfer NFT to buyer. |
 
+## How NFTs Work
+![](NftFlow.png)
+
 
 
 
