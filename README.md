@@ -40,10 +40,7 @@ cargo mpl-token-metadata@1.13.2
 ```
 
 ## Deployment
-Run the solana validator on local in separate terminal
-```bash
-solana-test-validator
-```
+
 Build the project
 ```bash
 anchor build
@@ -65,3 +62,12 @@ Uploaded image on Pinata
 All details are mentioned in 
 [https://yellow-major-catfish-634.mypinata.cloud/ipfs/QmdjfXJD8MHkE4vXBibGncsT95wB7jvoPJW3DrmpyTUodu](https://yellow-major-catfish-634.mypinata.cloud/ipfs/QmdjfXJD8MHkE4vXBibGncsT95wB7jvoPJW3DrmpyTUodu)
 
+## Tests
+Add  Packages using yarn for interacting with metaplex and writing test cases
+```bash
+yarn add @solana/spl-token @metaplex-foundation/mpl-token-metadata @metaplex-foundation/umi @metaplex-foundation/umi-bundle-defaults @metaplex-foundation/umi-signer-wallet-adapters
+```
+Run Tests
+```bash
+anchor test
+```
