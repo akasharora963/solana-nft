@@ -15,5 +15,30 @@ I use Anchor framework in this demo to make the nft smart contract and metaplex 
 ![](NftFlow.png)
 
 
+## Installation
+
+Setup Solana
+
+```bash
+sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
+```
+Add anchor using cargo
+```bash
+cargo install --git https://github.com/coral-xyz/anchor avm --locked --force
+```
+Create project
+```bash
+anchor init solana-nft-demo
+```
+Packages to add while making contract
+
+```bash
+cargo add anchor-lang@0.28.0 --features=init-if-needed
+cargo add anchor-spl@0.28.0 --features=metadata
+cargo mpl-token-metadata@1.13.2
+
+```
+
+
 
 
