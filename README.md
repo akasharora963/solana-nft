@@ -57,6 +57,12 @@ anchor deploy
 
 
 ## Metadata Creation
+
 Uploaded image on Pinata 
+
 ![](https://yellow-major-catfish-634.mypinata.cloud/ipfs/QmbGENpJgZt8hbHhy3XofuDsgR2kNVE6i2ey3zZEnSGBaL)
+
+All details are mentioned in 
+
+![](https://yellow-major-catfish-634.mypinata.cloud/ipfs/QmdjfXJD8MHkE4vXBibGncsT95wB7jvoPJW3DrmpyTUodu)
 
