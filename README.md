@@ -56,5 +56,7 @@ anchor deploy
 ![Screenshot from 2024-02-11 18-43-40](https://github.com/akasharora963/solana-nft/assets/45670997/5ba5abb4-5e81-47c0-ac38-3b67897127c8)
 
 
-
+## Metadata Creation
+Uploaded image on Pinata 
+![](https://yellow-major-catfish-634.mypinata.cloud/ipfs/QmbGENpJgZt8hbHhy3XofuDsgR2kNVE6i2ey3zZEnSGBaL)
 
