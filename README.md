@@ -39,6 +39,21 @@ cargo mpl-token-metadata@1.13.2
 
 ```
 
+## Deployment
+Run the solana validator on local in separate terminal
+```bash
+solana-test-validator
+```
+Build the project
+```bash
+anchor build
+```
+
+ Deploy the project
+```bash
+anchor deploy
+```
+
 
 
 
