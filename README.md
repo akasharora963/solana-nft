@@ -8,8 +8,13 @@ I use Anchor framework in this demo to make the nft smart contract and metaplex 
 | Functions        | Description                                                |
 | ------------------ | ---------------------------------------------------------- |
 || 
-| `mint-nft` | Mint an NFT to your local wallet using **Anchor**, including metadata using **Metaplex**. |
-| `sell-nft` | Sell one of your NFTs to another Solana wallet. Receive SOl from & transfer NFT to buyer. |
+| `mint_nft` | Mint an NFT to your local wallet using **Anchor**, including metadata using **Metaplex**. |
+| `sell` | Sell one of your NFTs to another Solana wallet. Receive SOl from & transfer NFT to buyer. |
+
+
+In mint_nft , we need to pass context of accounts and metadata components namely name, symbol and token uri as arguments.
+
+In sell, we need to pass context of accounts and sale_lamports which is the sale amount.
 
 ## How NFTs Work
 ![](NftFlow.png)
